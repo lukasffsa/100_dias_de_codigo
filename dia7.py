@@ -3,4 +3,4 @@ def tabuada(numero):
         print(f"{numero} x {i+1} = {numero*(i+1)}")
         
 num = int(input("digite um numero "))
-print(tabuada(num))
+tabuada(num)
